@@ -40,4 +40,4 @@ xfconf-query -c xsettings -p /Net/IconThemeName -s 'WhiteSur-dark'
 xfconf-query -c xsettings -p /Gtk/CursorThemeName -s "WhiteSur Cursors" 
 
 echo "SmallSur installed"
-echo "Reboot You system"
+echo "Reboot Your system using reboot command"
